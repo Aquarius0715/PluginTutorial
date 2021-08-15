@@ -1,0 +1,6 @@
+name: TutorialPlugin
+version: ${project.version}
+main: com.aquarius0715.tutorialplugin.TutorialPlugin
+api-version: 1.17
+commands:
+  tutorial:
